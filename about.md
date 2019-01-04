@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this website
+title: Amy Zhang
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Digital Illustrator completing undergraduate studies in Pharmacology, Toxicology and Physiology at University of Toronto
